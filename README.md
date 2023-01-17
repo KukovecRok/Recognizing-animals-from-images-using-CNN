@@ -1,7 +1,8 @@
 # Recognizing-animals-from-images
 
-Python jupyter notebook for recognizing animals from images using tensorflow and keras
+## SCHOOL PROJECT
 
+Python jupyter notebook for recognizing animals from images using tensorflow and keras
 Recognizing birds, fish and cats
 
 ## License
